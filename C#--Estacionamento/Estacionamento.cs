@@ -23,6 +23,7 @@ namespace C___Estacionamento
 
         public void removeVehicle(string licensePlate) 
         {
+
             vehicles.Remove(licensePlate);
         }
         
